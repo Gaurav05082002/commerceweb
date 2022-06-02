@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/commerceweb/static/css/main.f5e016e3.chunk.css",
+    "main.js": "/commerceweb/static/js/main.eee7abbd.chunk.js",
+    "main.js.map": "/commerceweb/static/js/main.eee7abbd.chunk.js.map",
+    "runtime-main.js": "/commerceweb/static/js/runtime-main.8fcf6915.js",
+    "runtime-main.js.map": "/commerceweb/static/js/runtime-main.8fcf6915.js.map",
+    "static/js/2.12e1ddba.chunk.js": "/commerceweb/static/js/2.12e1ddba.chunk.js",
+    "static/js/2.12e1ddba.chunk.js.map": "/commerceweb/static/js/2.12e1ddba.chunk.js.map",
+    "static/js/3.d9aef655.chunk.js": "/commerceweb/static/js/3.d9aef655.chunk.js",
+    "static/js/3.d9aef655.chunk.js.map": "/commerceweb/static/js/3.d9aef655.chunk.js.map",
+    "index.html": "/commerceweb/index.html",
+    "static/css/main.f5e016e3.chunk.css.map": "/commerceweb/static/css/main.f5e016e3.chunk.css.map",
+    "static/js/2.12e1ddba.chunk.js.LICENSE.txt": "/commerceweb/static/js/2.12e1ddba.chunk.js.LICENSE.txt",
+    "static/media/Cart.css": "/commerceweb/static/media/bg.27ea2e74.jpg",
+    "static/media/logo.6ce24c58.svg": "/commerceweb/static/media/logo.6ce24c58.svg",
+    "static/media/Home.css": "/commerceweb/static/media/onlinebg.0a8ed51d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fcf6915.js",
+    "static/js/2.12e1ddba.chunk.js",
+    "static/css/main.f5e016e3.chunk.css",
+    "static/js/main.eee7abbd.chunk.js"
+  ]
+}
