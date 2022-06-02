@@ -1,0 +1,40 @@
+.home {
+    color: tomato;
+    background-image: url("onlinebg.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.homelink {
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: bolder;
+    
+
+
+}
+.homenav {
+    /* border: 2px solid red; */
+    border-radius: 20px;
+    margin-left: 10rem;
+    background-color:rgba(0,0,255,0.3);
+    padding: 0.3rem;
+    transition: 1s;
+    margin-bottom: 30%;
+    
+}
+
+.homenav:hover {
+    transform:scale(1.3);
+    
+}
+.link {
+    display: flex;
+}

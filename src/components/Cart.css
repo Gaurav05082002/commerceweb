@@ -1,0 +1,127 @@
+.thanks {
+    height: 5rem;
+    background-color: #282A35;
+    color: white;
+    font-size: large;
+    font-family: 'Sorce sans pro' , sans-serif;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+.product {
+    border: 2px solid black;
+    display: flex;
+    /* justify-content: space-evenly;
+    align-items: center; */
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+height: 100vh;
+background-size: cover;
+width: 100%;
+flex-wrap: wrap;
+overflow-x: scroll;
+position: absolute;
+z-index: 3;
+}
+.items-info {
+    border: 2px solid white;
+    height: fit-content;
+    background-color:rgba(0,0,255,0.1);
+    transition: 2s;
+    padding: 2rem;
+    margin: 1rem;
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+.items-info :hover
+{
+    transform: scale(1.05);
+}
+.product-img img {
+    width: 16rem;
+    height: 18rem;
+}
+.producthandel {
+    border: solid 2px white;
+    width: fit-content;
+    display: flex;
+    height: max-content;
+margin-top: 2rem;
+} 
+.counter {
+    display: flex;
+    /* border: solid 2px black; */
+    justify-content: center;
+    
+}
+.count {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: solid 2px black;
+}
+.add {
+    border: 2px solid black;
+    
+}
+.refresh {
+    color:white;
+    text-decoration: none;
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border:2px solid  seashell;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    background-color: #282A35;
+    font-family: 'Sorce sans pro' , sans-serif;
+
+}
+.clear {
+    color:white;
+    text-decoration: none;
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border:2px solid  seashell;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    background-color: #282A35;
+    font-family: 'Sorce sans pro' , sans-serif;
+    float: right;
+    font-size: large;
+    
+
+}
+.clear :hover {
+    cursor:progress;
+}
+.bill {
+    color:white;
+    text-decoration: none;
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border:2px solid  seashell;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    background-color: #282A35;
+    font-family: 'Sorce sans pro' , sans-serif;
+    float: left;
+    font-size: large;
+}
+.billhandel {
+    position: absolute;
+    z-index: 1;
+    background-color: #282A35;
+    color: white;
+    padding-bottom: 10rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    margin-top: 2rem;
+    
+}

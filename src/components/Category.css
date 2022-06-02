@@ -1,0 +1,41 @@
+.catnavlink {
+    color: black;
+    text-decoration: none;
+    font-size:xx-large;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: bolder;
+    
+
+}
+.categoryname {
+border: 2px solid white;
+width: fit-content;
+display: flex;
+align-items: center;
+height: 20rem;
+border-radius: 20rem;
+opacity: 0.6;
+background-color:grey;
+transition: 1s;
+
+
+}
+
+.catmain {
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url("bg.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+    
+}
+
+.catmain :hover {
+    transform:scale(1.1);
+}

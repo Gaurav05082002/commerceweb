@@ -1,0 +1,15 @@
+.header {/*border: 0.1rem solid red ;*/
+padding: 0.7rem;
+background-color: grey;
+color: white;
+height: fit-content;
+text-align: left;
+}
+.navlink {
+    color:white;
+    text-decoration: none;
+    font-size: larger;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
